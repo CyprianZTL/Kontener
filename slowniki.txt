@@ -1,0 +1,2 @@
+{"klucz1": "wartosc1", "klucz2": 2}
+{"klucz3": "wartosc3", "klucz4": 4}
